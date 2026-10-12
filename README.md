@@ -10,11 +10,11 @@
 
 🎓 I'm currently pursuing a Master's degree in **Software Engineering** at Masaryk University.
 
-💻 I'm passionate about software development, technology, and creative problem-solving.
+💻 I'm passionate about software development, technology, and creative problem solving.
 
 🌱 I'm currently exploring **Artificial Intelligence & Machine Learning** while strengthening my programming skills.
 
-🚀 I'm looking to gain hands-on experience and contribute to meaningful projects.
+🚀 I'm looking to gain more experience and contribute to meaningful projects.
 
 📚 **Fun fact:** I used to teach English!
 
