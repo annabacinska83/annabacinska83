@@ -2,7 +2,7 @@
 
 # 🌸 Hi, I'm Anna!
 
-## ✨ Software Engineering Student | Exploring AI | Creative Thinker
+## ✨ Software Engineering Student
 
 </div>
 
