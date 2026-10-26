@@ -10,7 +10,7 @@
 
 🎓 I'm currently pursuing a Master's degree in **Software Engineering** at Masaryk University.
 
-💻 I'm passionate about software development, technology, and creative problem solving.
+💻 I'm passionate about software development, creative problem solving the business side of technology.
 
 🌱 I'm currently exploring **Artificial Intelligence & Machine Learning** while strengthening my programming skills.
 
